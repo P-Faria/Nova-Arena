@@ -1,0 +1,8 @@
+a.a.1
+b.b.1
+carlos.sainz.55
+charles.leclerc.16
+fernando.alonso.14
+land.norris.4
+pedro.faria.24
+tiago.rodrigues.4
